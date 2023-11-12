@@ -15,13 +15,13 @@ global.autoRecord = false; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["94703892615","94767880946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["94703892615"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ["94703892615"];
-global.OwnerName = "DARK DEVIL";
-global.BotName = "DDev";
-global.packname = "🌹⃝⃘̉̉̉̉̉̉𝙳𝙳𝙴𝚅 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂";  //Do not change.
-global.author = "𝙱𝚈 𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻۝⃟̥̩̩̩̥̩";   //Do not change.
+global.Owner = ["263714906216"];   //If you want singal number so global.Owner = [263714906216'] Change into your number
+global.OwnerNumber = ["263714906216"];   //If you want singal number so global.Owner = [263714906216'] Change into your number
+global.ownertag = ["263714906216"];
+global.OwnerName = "ᴋᴇɴᴅʀɪᴄᴋ";
+global.BotName = "ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ";
+global.packname = "🌹⃝⃘̉̉̉̉̉̉ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂";  //Do not change.
+global.author = "𝙱𝚈 ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ۝⃟̥̩̩̩̥̩";   //Do not change.
 global.BotSourceCode = "https://github.com/DARK-DEVIL-BOTZ/DDev-BOT";  //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl"; 
 
@@ -40,7 +40,7 @@ global.reactmoji = "❤️";
 global.themeemoji = "🤖";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/malindunimsara";
-global.lolhuman = "DARK DEVIL";
+global.lolhuman = "ᴋᴇɴᴅʀɪᴄᴋ";
 
 
 //
@@ -76,7 +76,7 @@ global.mess = {
     jobdone: '𝙷𝚎𝚛𝚎 𝚢𝚘𝚞 𝚐𝚘...',
     useradmin: '𝚂𝚘𝚛𝚛𝚢, 𝚘𝚗𝚕𝚢 *𝙶𝚁𝙾𝚄𝙿 𝙰𝙳𝙼𝙸𝙽𝚂* 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍!',
     botadmin: '𝚂𝚘𝚛𝚛𝚢, 𝚒 𝚌𝚊𝚗𝚝 𝚎𝚡𝚎𝚌𝚞𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚊𝚗 *𝙰𝙳𝙼𝙸𝙽* 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙!',
-    botowner: '𝙾𝚗𝚕𝚢 𝚖𝚢 *𝙾𝚆𝙽𝙴𝚁* 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍!',
+    botowner: '𝙾𝚗𝚕𝚢 𝚖𝚢 *𝙾𝚆𝙽𝙴𝚁 ᴋᴇɴᴅʀɪᴄᴋ* 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍!',
     grouponly: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 *𝙶𝚁𝙾𝚄𝙿𝚂*!',
     privateonly: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 *𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝚃𝚂*!',
     botonly: '𝙾𝚗𝚕𝚢 𝚝𝚑𝚎 *𝙱𝙾𝚃 𝙸𝚃𝚂𝙴𝙻𝙵* 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍!',
